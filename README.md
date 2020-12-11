@@ -1,10 +1,9 @@
-# crash_dummies
-Project 5 for DSI-824
-
-Team - Crash Dummies - Reggie DePiero, Apratim Biswas, and Christopher Villafuerte
 
 ## Problem Statment:
 Identify high risk factors within NYC traffic. Create a map of risks: Geographic / Time This map of risk is to be used by first responders to navigate the city during motor Vehicle crashes, natural disaster, and emergencies. This map of risk is to also be used by city planers to improve traffic performance.
+
+Team - Crash Dummies - Reggie DePiero, Apratim Biswas, and Christopher Villafuerte
+
 
 ## Data
 We accuirred data from NYC cityofnewyork.us
